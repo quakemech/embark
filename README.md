@@ -25,6 +25,22 @@ Then install bash:
 brew install bash 
 ```
 
+# Installation 
+
+Install the embark bash script to your /usr/local/bin/ directory using: 
+
+```bash
+make install
+```
+
+# Uninstallation 
+
+Remove the embark bash script from /usr/local/bin/ directory using: 
+
+```bash
+make uninstall
+```
+
 # Usage
 
 Create a folder to store the virtual machine and related configuration files: 
